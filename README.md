@@ -1,4 +1,4 @@
-# 💌 Love Greeting Webb
+# 💌 Love Greeting Web
 
 > Aplikasi web interaktif berbasis animasi CSS dan JavaScript untuk menyampaikan ucapan, pesan apresiasi, atau kartu ucapan digital secara personal dan kreatif.
 
